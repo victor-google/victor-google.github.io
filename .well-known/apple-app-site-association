@@ -15,5 +15,13 @@
         ]
       }
     ]
-  }
+  },
+
+"appclips": {
+        "apps": [
+		 "com.google.experimental0.dev.clip",
+		 "EQHXZ8M8AV.com.google.experimental0.dev.clip"
+	]
+}
+
 }
