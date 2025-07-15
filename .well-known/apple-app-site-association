@@ -1,9 +1,13 @@
 {
-	"applinks": {
-		"apps": [],
-		"details": [{
-				"appID": "com.google.experimental0.dev"
-			}
-		]
-	}
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "com.google.experimental0.dev",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
 }
