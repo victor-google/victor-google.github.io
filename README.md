@@ -1,1 +1,1 @@
-Good afernoon everyone!
+Good afternoon everyone!
